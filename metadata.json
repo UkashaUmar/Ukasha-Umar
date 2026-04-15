@@ -1,0 +1,6 @@
+{
+  "name": "Neon Pong",
+  "description": "A polished, cyberpunk-themed Pong game with mouse and keyboard controls, AI opponent, and neon visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
